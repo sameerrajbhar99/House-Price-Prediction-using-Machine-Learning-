@@ -6,6 +6,12 @@ This project focuses on predicting house prices using machine learning technique
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Try the app here](https://house-price-predictor-apppp.streamlit.app/)**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-predictor-apppp.streamlit.app/)
+
 ## 🚀 Features
 
 * Data Cleaning and Preprocessing
